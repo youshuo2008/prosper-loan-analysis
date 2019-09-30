@@ -24,11 +24,11 @@ I started my exploration with univariate distributions. I found the defaulted lo
 For the presentation, I focused on exploring the effects of loan status, credit grade/Prosper Rating on borrower rate. <br />
 I first introduced the borrower rate variable by presenting its distribution. Then, I compared the borrower rate between <br />
 the defaulted and completed loan groups and found the Defaulted loan group generally have higher borrower rates. <br />
-Afterwards, I looked into the relationship between Credit Grade and Borrower Rate as well as relationship between Prosper Score <br />
-and Borrower Rate. I discovered higher Credit Grade or higher Prosper rating borrowers tend to have lower Borrower Rate. <br />
-Then I investigated the effects of Loan Status, Credit Grade/Prosper Rating on Borrower Rate with two multivariate point plots. <br />
-Interestingly, I found the defaulted loan group tend to have higher Mean Borrower Rate in every Credit Grade/Prosper Rating <br />
-compared to the completed loans.
+Afterwards, I looked into the relationship between Credit Grade and Borrower Rate as well as relationship between <br />
+Prosper Score and Borrower Rate. I discovered higher Credit Grade or higher Prosper rating borrowers tend to have <br />
+lower Borrower Rate. Then I investigated the effects of Loan Status, Credit Grade/Prosper Rating on Borrower Rate with <br />
+two multivariate point plots. Interestingly, I found the defaulted loan group tend to have higher Mean Borrower Rate in  <br />
+every Credit Grade/Prosper Rating compared to the completed loans.
 
 
 ## Credits
