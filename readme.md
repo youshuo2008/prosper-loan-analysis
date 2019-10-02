@@ -41,5 +41,5 @@ https://matplotlib.org
 
 https://seaborn.pydata.org/
 
-
-I wanted to specially say thank you to my Udacity mentor: Raj V and Udacity project reviewers for their strong support.
+I wanted to specially say thank you to my Udacity mentor: Raj V and Udacity teachers: Richard Kalehoff, Juno Lee, <br />
+Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer for their strong support.
