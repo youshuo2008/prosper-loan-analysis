@@ -7,7 +7,7 @@ This project and README file were created on 09/27/2019.
 ## Dataset
 
 The Prosper Loan dataset contains 113,937 loan records with 81 variables. <br />
-The orginal dataset can be found at [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
+The original dataset can be found at [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 and the feature documentation is available at [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0 "Prosper Load variable data dictionary"). <br />
 For this project, I'm interested in comparing completed loans with defaulted loans, so a subset of data was selected. <br />
 After data wrangling, my main dataset has 49640 loan records with two loan status groups: 'Completed' and 'Defaulted'. <br />
