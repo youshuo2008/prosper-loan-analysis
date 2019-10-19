@@ -21,7 +21,7 @@ I started my exploration with univariate distributions. I found the defaulted lo
 
 ## Key Insights for Presentation
 
-For the explanatory presentation, I focused on the effects of loan status, credit grade/Prosper Rating on borrower rate. <br />
+For the explanatory presentation, I focused on effects of loan status, credit grade/Prosper Rating on borrower rate. <br />
 I first introduced the borrower rate variable by presenting its distribution. Then, I compared the borrower rate between <br />
 the defaulted and completed loan groups and found the Defaulted loan group generally have higher borrower rates. <br />
 Further, I looked into the relationship between Credit Grade and Borrower Rate as well as relationship between <br />
