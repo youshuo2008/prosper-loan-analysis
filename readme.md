@@ -12,7 +12,7 @@ and the feature documentation is available at [here](https://docs.google.com/spr
 For this project, I'm interested in comparing completed loans with defaulted loans, so a subset of data was selected. <br />
 After data wrangling, the main dataset has 49640 loan records with two loan status groups: 'Completed' and 'Defaulted'. <br />
 As Credit Grade and Prosper Rating features were used for loans originated before July 2009 and after July 2009 respectively, <br />
-further subsetting of the main dataset was conducted. <br />
+further sub-setting of the main dataset was conducted. <br />
 
 ## Summary of Findings
 
